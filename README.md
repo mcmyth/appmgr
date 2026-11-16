@@ -2,6 +2,20 @@
 
 一款简洁、现代的 Android 应用管理工具，用于查看设备上的应用信息并管理 APK 备份。
 
+## 应用演示
+
+### 应用列表
+
+![应用列表](docs/screenshots/home.png)
+
+### 应用详情
+
+![应用详情](docs/screenshots/detail.png)
+
+### 备份管理
+
+![备份管理](docs/screenshots/backups.png)
+
 ## 主要功能
 
 - 浏览、搜索和排序用户应用与系统应用
